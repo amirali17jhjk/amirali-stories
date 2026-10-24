@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "دنیای داستان امیرعلی",
+  "short_name": "دنیای داستان",
+  "description": "مجموعه‌ای از ۵۰ داستان",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101820",
+  "theme_color": "#16a085"
+}
